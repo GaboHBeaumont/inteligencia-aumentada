@@ -11,5 +11,5 @@ title: Vannevar Bush
 ## La relación entre el hombre ilustrado y la suma de nuestra conocimiento.
 ##
 ## Para el avance cientifico la cantidad de publicaciones cientificas y la cantidad de tiempo de lectura es tremenda.
-## Vannevar tiene un vision global de los avances cientificos
+## Vannevar tiene un vision global de los avances cientificos, y tenia claro que
 ##
