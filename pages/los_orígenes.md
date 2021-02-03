@@ -17,4 +17,4 @@ title: Los Orígenes
             - The Mother of all Demos.
 ## Ted Nelson
 ## Alan Kay
-- Zettelkasten
+## Zettelkasten
