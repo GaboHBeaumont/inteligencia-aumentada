@@ -11,7 +11,7 @@ title: Los Orígenes
         - [[SRI]]
             - [[Augment]]
             - [[Arpanet]]
-                - [[Xerox Park]] 
+## [[Xerox Park]] 
                     - Apple
                     - Microsoft
             - The Mother of all Demos.
