@@ -3,7 +3,7 @@ title: Los Orígenes
 ---
 
 ## [[Introducción al Club la Inteligencia Aumentada]]
-##
+## [[Introducción a la sesión Los Orígenes]]
 ## [[Vannevar Bush]]
     - [[Computación Interactiva]]
 ### [[Licklider]]
