@@ -15,6 +15,6 @@ title: Los Orígenes
 ## [[Xerox Park]] 
                     - Apple
                     - Microsoft
-## Ted Nelson
+## [[Ted Nelson]]
 ## Alan Kay
 ## Zettelkasten
