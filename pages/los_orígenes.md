@@ -7,7 +7,7 @@ title: Los Orígenes
 ## [[Vannevar Bush]]
     - [[Computación Interactiva]]
 ### [[Licklider]]
-### [[Doug Engelbart]]
+## [[Doug Engelbart]]
         - [[SRI]]
             - [[Augment]]
             - [[Arpanet]]
