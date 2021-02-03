@@ -11,11 +11,10 @@ title: Los Orígenes
                 - Es una joya.
             - Arpanet
                 - Mcdonald Douglas
-                - Xerox Park
+                - [[Xerox Park]] 
                     - Apple
                     - Microsoft
             - The Mother of all Demos.
     - Ted Nelson
     - Alan Kay
-- [[Xerox Park]]
 - Zettelkasten
