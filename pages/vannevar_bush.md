@@ -17,4 +17,4 @@ title: Vannevar Bush
 ### Ya existian las maquinas de
 #### Typewriter, la camara de cine, el teleono, el progreso en fotografia, en grabacion, en discos magneticos, microfilm, sistemas opticos, sistemasa enciclopedia britanica en menos de una cerilla.
 ## **Los coste de almacenamiento bajaran a los centimos**
-##
+## Como crear un record
