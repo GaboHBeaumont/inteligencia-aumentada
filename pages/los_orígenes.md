@@ -10,7 +10,6 @@ permalink: los%20or%C3%ADgenes
     - [[Doug Engelbart]]
         - SRI
             - [[Augment]]
-                - Es una joya.
             - Arpanet
                 - Mcdonald Douglas
                 - [[Xerox Park]] 
