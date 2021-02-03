@@ -3,7 +3,6 @@ title: Los Orígenes
 ---
 
 ## [[Introducción]]
-##
 ## [[Vannevar Bush]]
     - [[Computación Interactiva]]
 ### [[Licklider]]
