@@ -33,4 +33,5 @@ title: Vannevar Bush
 ##### Hacer la seleccion en vez de por indexacion, por asociacion. No podesmos esperar igualar la velocidad y flexibilidad de la mente humana con sus senderos asociativos, pero desde luego se le puede ganar en permanencia y claridad de los elementos traidos de vuelta del almacenamiento.
 ### Imaginaros un dispositivo privado como una libreria que puede almacenar todas las ideas que tienes y que se puede consultar con gran velocidad y flexibilidad.
 #### ES como  una mesa, se almacena todo el materail en microfilm: libros, peliculas, paeriodicos, correspondencia del trabajo. Puedes consultar cualquier cosa, escribir anotaciones, comentarios,
-#### Cuando consultas
+#### Cuando consultas puedes hacer asociaciones entre elementos de manera que creas senderos de pensamientos. Un elemento puede formar parte de muchos senderos distinos.
+#### Estos senderos los puedes compartir con otros para que se los descarguen en sus propios memex.
