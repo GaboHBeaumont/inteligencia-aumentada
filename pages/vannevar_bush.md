@@ -38,4 +38,3 @@ title: Vannevar Bush
 ### Estos asociaciones entre elementos del Memex obviamente nos recuerda a todos al hypertext. De hecho es de donde lo saca Ted Nelson y acuña la palabra. Pero lo interesante es que en la web hay one way links pero se utilizan como Vannevar decia como asociacion de dos objetos.
 ### Todavia no hemos desarrollado la capacidad necesaria, la flexibilidad necesaria para poder hacer trails con el dinamismo con el que habla Vannevar. Incluso con herramientas
 ### La idea de dejar `proyectadas` los registros es muy interantes. Esto me recuerda a los parallel pages de Ted Nelson o la Panel lateral que muestra roam  y lo importante que es visualizar al mismo tiempo los elementos conectados.
-### Otro aspecto interesante
