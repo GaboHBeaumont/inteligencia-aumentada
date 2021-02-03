@@ -4,7 +4,7 @@ title: Los Orígenes
 
 ## [[Introducción]]
 ## [[HCI]]
-- [[Vannevar Bush]]
+## [[Vannevar Bush]]
     - Engelbart
         - SRI
             - Augment
