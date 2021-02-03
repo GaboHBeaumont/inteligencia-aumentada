@@ -10,7 +10,6 @@ title: Los Orígenes
 ### [[Doug Engelbart]]
         - SRI
             - [[Augment]]
-                - Es una joya.
             - Arpanet
                 - Mcdonald Douglas
                 - [[Xerox Park]] 
