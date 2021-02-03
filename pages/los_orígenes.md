@@ -6,7 +6,7 @@ title: Los Orígenes
 ## [[Introducción a la sesión Los Orígenes]]
 ## [[Vannevar Bush]]
     - [[Computación Interactiva]]
-### [[Licklider]]
+## [[Licklider]]
 ## [[Doug Engelbart]]
         - [[SRI]]
             - [[Augment]]
