@@ -21,4 +21,4 @@ title: Vannevar Bush
 ## Pero aqui llega la magia
 ### Los procesos repetitivos no estan confinados a la aritmetica o a la estadistica. Cada vez que se se combina y registran hechos de acuerdo a una proceso logico, el aspecto del pensamiento creativo esta solo relacionado con la seleccion de informacion y con la definicion del proceso, despues todo es de naturaleza repetitiva y por lo tanto se puede relegar a la maquina.
 ## Como llegamos al registro que queremos? El problem es o que los sistemas de indexado son demasiados artificiales o que todavia no existe este devie.
-### El indexado actual va por categorias ordenadas alfabeticamente o numericamente. Cada registro solo puede estar en un sitio, y tienes que ir
+### El indexado actual va por categorias ordenadas alfabeticamente o numericamente. Cada registro solo puede estar en un sitio, y tienes que ir por todo el camino
