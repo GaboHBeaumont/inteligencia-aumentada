@@ -17,4 +17,4 @@ title: Vannevar Bush
 ### Ya existian las maquinas de
 #### Typewriter, la camara de cine, el teleono, el progreso en fotografia, en grabacion, en discos magneticos, microfilm, sistemas opticos, sistemasa enciclopedia britanica en menos de una cerilla.
 ## **Los coste de almacenamiento bajaran a los centimos**
-## Se podra registrar infomracion, transformarla, reutilizarla
+## Se podra registrar infomracion, transformarla, reutilizarla con un gran velocidad de computacion. (Hasta ese momento las maquinas solo servian para operaciones matematicas o para punch cards de guardado de informacion con el censo)
