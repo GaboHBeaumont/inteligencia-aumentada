@@ -19,4 +19,4 @@ title: Vannevar Bush
 ## **Los coste de almacenamiento bajaran a los centimos**
 ## Se podra registrar infomracion, transformarla, reutilizarla con un gran velocidad de computacion. (Hasta ese momento las maquinas solo servian para operaciones matematicas o para punch cards de guardado de informacion con el censo)
 ## Pero aqui llega la magia
-### Los procesos repetitivos no estan confinados a la aritmetica o a la estadistica. Cada vez que se se combina y registran hechos de acuerdo a una proceso logico, el aspecto del pensamiento creativo
+### Los procesos repetitivos no estan confinados a la aritmetica o a la estadistica. Cada vez que se se combina y registran hechos de acuerdo a una proceso logico, el aspecto del pensamiento creativo esta solo relacionado con la seleccion de informacion y con la definicion del proceso, despues todo es de naturaleza repetitiva y por lo tanto se puede relegar a la maquina.
