@@ -13,7 +13,7 @@ title: Vannevar Bush
 ## Para el avance cientifico la cantidad de publicaciones cientificas y la cantidad de tiempo de lectura es tremenda.
 ## **Vannevar tiene un vision global de los avances cientificos**
 ### Vannevar tiene un vision global de los avances cientificos, y tenia claro que el Memex, el dispositivo que el visulizaba para expandir las capacidades de la mente se podia construir.
-## **La idea de que los componentes ya se estaban produciendo en otras industrias**
+## **La idea de que los componentes complejos ya se estaban produciendo en otras industrias y por lo tanto era una cuestion de tiempo**
 ### Ya existian las maquinas de
 #### Typewriter, la camara de cine, el teleono, el progreso en fotografia, en grabacion, en discos magneticos, microfilm, sistemas opticos, sistemasa enciclopedia britanica en menos de una cerilla.
 ## **Los coste de almacenamiento bajaran a los centimos**
