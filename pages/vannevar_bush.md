@@ -27,4 +27,4 @@ title: Vannevar Bush
 #### Algunas caracteristicas interesantes son:
 ##### los senderos que no recorremos tienden al olvido.
 ##### las ideas no son permanentes, son transistorias se olvidan.
-##### la velocidad de accion
+##### la velocidad de accion,
