@@ -35,5 +35,7 @@ title: Vannevar Bush
 #### ES como  una mesa, se almacena todo el materail en microfilm: libros, peliculas, paeriodicos, correspondencia del trabajo. Puedes consultar cualquier cosa, escribir anotaciones, comentarios,
 #### Cuando consultas puedes hacer asociaciones entre elementos de manera que creas senderos de pensamientos. Un elemento puede formar parte de muchos senderos distinos.
 #### Estos senderos los puedes compartir con otros para que se los descarguen en sus propios memex e incluso aportar nuevos elementos a tus senderos.
-### Estos asociaciones entre elementos del Memex obviamente nos recuerda a todos al hypertext. De hecho es de donde lo saca Ted Nelson y acuña la palabra. Pero lo interesante es que en la web hay one way links pero se utilizan como Vannevar decia como asociacion de dos objetos
-### Otros
+### Estos asociaciones entre elementos del Memex obviamente nos recuerda a todos al hypertext. De hecho es de donde lo saca Ted Nelson y acuña la palabra. Pero lo interesante es que en la web hay one way links pero se utilizan como Vannevar decia como asociacion de dos objetos.
+### Todavia no hemos desarrollado la capacidad necesaria, la flexibilidad necesaria para poder hacer trails con el dinamismo con el que habla Vannevar. Incluso con herramientas
+### La idea de dejar `proyectadas` los registros es muy interantes. Esto me recuerda a los parallel pages de Ted Nelson o la Panel lateral que muestra roam  y lo importante que es visualizar al mismo tiempo los elementos conectados.
+### Otro aspecto interesante
