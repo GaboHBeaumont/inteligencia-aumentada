@@ -30,4 +30,4 @@ title: Vannevar Bush
 ##### la velocidad de accion, la complejidad de los senderos, el detalle de las imagnes mentales es mas impresionante que cualquier otra cosa de la naturaleza.
 #### No podemos tener la expectativa de poder duplicar este proceso mental con un proceso artificial. Pero podemos aprender de el e incluso mejorarlo:
 ##### Hacer las ideas permanentes.
-#####
+##### Hacer la seleccion en vez de por indexacion, por asociacion.
