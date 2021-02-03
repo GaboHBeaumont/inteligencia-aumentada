@@ -11,7 +11,7 @@ title: Vannevar Bush
 ## La relación entre el hombre ilustrado y la suma de nuestra conocimiento.
 ##
 ## Para el avance cientifico la cantidad de publicaciones cientificas y la cantidad de tiempo de lectura es tremenda.
-##
+## Vannevar tiene un vision global de los avances cientificos
 ### Vannevar tiene un vision global de los avances cientificos, y tenia claro que el Memex, el dispositivo que el visulizaba para expandir las capacidades de la mente se podia construir:
 #### Ya existian las maquinas de
 ##### Typewriter, la camara de cine, el teleono, el progreso en fotografia, en grabacion, en discos magneticos, microfilm, sistemas opticos, sistemasa enciclopedia britanica en menos de una cerilla.
