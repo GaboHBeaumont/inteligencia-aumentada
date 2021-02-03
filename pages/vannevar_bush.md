@@ -34,4 +34,5 @@ title: Vannevar Bush
 ### Imaginaros un dispositivo privado como una libreria que puede almacenar todas las ideas que tienes y que se puede consultar con gran velocidad y flexibilidad.
 #### ES como  una mesa, se almacena todo el materail en microfilm: libros, peliculas, paeriodicos, correspondencia del trabajo. Puedes consultar cualquier cosa, escribir anotaciones, comentarios,
 #### Cuando consultas puedes hacer asociaciones entre elementos de manera que creas senderos de pensamientos. Un elemento puede formar parte de muchos senderos distinos.
-#### Estos senderos los puedes compartir con otros para que se los descarguen en sus propios memex.
+#### Estos senderos los puedes compartir con otros para que se los descarguen en sus propios memex e incluso aportar nuevos elementos a tus senderos.
+###
