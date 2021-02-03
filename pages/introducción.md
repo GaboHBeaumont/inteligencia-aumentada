@@ -8,4 +8,4 @@ title: Introducción
 ### La idea del Club es explorar juntos esta apasionante historia, presente y futuro de como la revolución digital ha aumentado nuestra inteligencia colectiva.
 ###
 ## En cambio, en computación interactiva, [[Interación Humano-Computadora (HCI)]], internet, Vannevar Bush, Licklider, Engelbart
-## Intro about the origins of the world
+##
