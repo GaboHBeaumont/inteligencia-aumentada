@@ -8,7 +8,7 @@ title: Los Orígenes
     - [[Computación Interactiva]]
 ### [[Licklider]]
 ### [[Doug Engelbart]]
-        - SRI
+        - [[SRI]]
             - [[Augment]]
             - Arpanet
                 - Mcdonald Douglas
