@@ -19,3 +19,4 @@ title: Vannevar Bush
 ## **Los coste de almacenamiento bajaran a los centimos**
 ## Se podra registrar infomracion, transformarla, reutilizarla con un gran velocidad de computacion. (Hasta ese momento las maquinas solo servian para operaciones matematicas o para punch cards de guardado de informacion con el censo)
 ## Pero aqui llega la magia
+###
