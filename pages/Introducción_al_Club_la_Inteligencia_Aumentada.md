@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: Introducción al Club la Inteligencia Aumentada
 ---
 
 ##
