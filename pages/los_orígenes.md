@@ -5,7 +5,7 @@ title: Los Orígenes
 ## [[Introducción]]
 ## [[HCI]]
 ## [[Vannevar Bush]]
-    - Engelbart
+    - [[Doug Engelbart]]
         - SRI
             - [[Augment]]
                 - Es una joya.
