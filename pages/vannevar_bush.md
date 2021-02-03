@@ -17,7 +17,7 @@ title: Vannevar Bush
 ### Ya existian las maquinas de
 #### Typewriter, la camara de cine, el teleono, el progreso en fotografia, en grabacion, en discos magneticos, microfilm, sistemas opticos, sistemasa enciclopedia britanica en menos de una cerilla.
 ## **Los coste de almacenamiento bajaran a los centimos**
-## Se podra registrar infomracion, transformarla, reutilizarla con un gran velocidad de computacion. (Hasta ese momento las maquinas solo servian para operaciones matematicas o para punch cards de guardado de informacion con el censo)
+## **Se podra registrar infomracion, transformarla, reutilizarla con un gran velocidad de computacion. **(Hasta ese momento las maquinas solo servian para operaciones matematicas o para punch cards de guardado de informacion con el censo)
 ## Pero aqui llega la magia
 ### Los procesos repetitivos no estan confinados a la aritmetica o a la estadistica. Cada vez que se se combina y registran hechos de acuerdo a una proceso logico, el aspecto del pensamiento creativo esta solo relacionado con la seleccion de informacion y con la definicion del proceso, despues todo es de naturaleza repetitiva y por lo tanto se puede relegar a la maquina.
 ## Como llegamos al registro que queremos? El problem es o que los sistemas de indexado son demasiados artificiales o que todavia no existe este devie.
