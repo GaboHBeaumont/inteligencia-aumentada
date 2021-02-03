@@ -9,4 +9,3 @@ title: Introducción
 ###
 ## En cambio, en computación interactiva, [[Interación Humano-Computadora (HCI)]], internet, Vannevar Bush, Licklider, Engelbart
 ## Intro about the origins of the world
-## [[HCI]]
