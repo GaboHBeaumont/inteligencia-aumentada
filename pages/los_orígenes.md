@@ -16,5 +16,5 @@ title: Los Orígenes
                     - Apple
                     - Microsoft
 ## [[Ted Nelson]]
-## Alan Kay
-## Zettelkasten
+## [[Alan Kay]]
+## [[Zettelkasten]]
