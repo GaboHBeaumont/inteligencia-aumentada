@@ -10,5 +10,6 @@ title: Vannevar Bush
 ## Y de esta manera conseguir el mando del conocimiento desarrollado durante toda la historia de la humanidad.
 ## La relación entre el hombre ilustrado y la suma de nuestra conocimiento.
 ##
+## Para el avance cientifico la cantidad de publicaciones cientificas y la cantidad de tiempo de lectura es tremenda.
 ##
 ##
