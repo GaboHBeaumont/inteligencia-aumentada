@@ -11,7 +11,6 @@ title: Los Orígenes
         - [[SRI]]
             - [[Augment]]
             - [[Arpanet]]
-                - Mcdonald Douglas
                 - [[Xerox Park]] 
                     - Apple
                     - Microsoft
