@@ -6,4 +6,4 @@ title: Vannevar Bush
 ## En el articulo Vannevar describe un dispositivo que permite almacenar todos tus libros, discos, comunicaiones, archivos y mecanizar el tratamiento de esa infromacion como una expansión íntima de la memoria humana.
 ## Lider tecnologico de USA durante la segunda guerra mundial coordinando a más de 6000 cientificos.  Presidente de USA fue a verle al lecho de muerte para unos ultimos consejos.
 ## Hasta entonces el hombre se ha dedicado a desarrollar herramientas que expanden nuestras capacidades fisicas , pero pocas herramientas que expandan nuestras capacidades de nuestra mente.
-## Propone
+## El mando del conocimiento de
