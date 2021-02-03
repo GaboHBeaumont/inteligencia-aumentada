@@ -11,11 +11,10 @@ title: Los Orígenes
         - [[SRI]]
             - [[Augment]]
             - [[Arpanet]]
-##
+###
 ## [[Xerox Park]] 
                     - Apple
                     - Microsoft
-            - The Mother of all Demos.
 ## Ted Nelson
 ## Alan Kay
 ## Zettelkasten
