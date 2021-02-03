@@ -31,4 +31,4 @@ title: Vannevar Bush
 #### No podemos tener la expectativa de poder duplicar este proceso mental con un proceso artificial. Pero podemos aprender de el e incluso mejorarlo:
 ##### Hacer las ideas permanentes.
 ##### Hacer la seleccion en vez de por indexacion, por asociacion. No podesmos esperar igualar la velocidad y flexibilidad de la mente humana con sus senderos asociativos, pero desde luego se le puede ganar en permanencia y claridad de los elementos traidos de vuelta del almacenamiento.
-### Imaginaros un
+### Imaginaros un dispositivo privado como una libreria
