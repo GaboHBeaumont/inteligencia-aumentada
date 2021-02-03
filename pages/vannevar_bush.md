@@ -32,4 +32,4 @@ title: Vannevar Bush
 ##### Hacer las ideas permanentes.
 ##### Hacer la seleccion en vez de por indexacion, por asociacion. No podesmos esperar igualar la velocidad y flexibilidad de la mente humana con sus senderos asociativos, pero desde luego se le puede ganar en permanencia y claridad de los elementos traidos de vuelta del almacenamiento.
 ### Imaginaros un dispositivo privado como una libreria que puede almacenar todas las ideas que tienes y que se puede consultar con gran velocidad y flexibilidad.
-###
+#### ES como  una mesa, se almacena todo el materail en microfilm: libros, peliculas, paeriodicos, correspondencia del trabajoo
