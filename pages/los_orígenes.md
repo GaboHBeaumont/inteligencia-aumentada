@@ -1,5 +1,7 @@
 ---
 title: Los Orígenes
+published: true
+permalink: los%20or%C3%ADgenes
 ---
 
 ## [[Introducción]]
