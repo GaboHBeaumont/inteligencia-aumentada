@@ -26,4 +26,5 @@ title: Vannevar Bush
 #### Una idea -> sugiere otra idea por la asociacion de ideas -> de acuerdo a un red tupida de senderos representada por la red de neuronas.
 #### Algunas caracteristicas interesantes son:
 ##### los senderos que no recorremos tienden al olvido.
+##### las ideas no son permanentes, son transistorias se olvidan.
 #####
