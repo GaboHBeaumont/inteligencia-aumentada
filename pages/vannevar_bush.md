@@ -23,4 +23,5 @@ title: Vannevar Bush
 ## Como llegamos al registro que queremos? El problem es o que los sistemas de indexado son demasiados artificiales o que todavia no existe este devie.
 ### El indexado actual va por categorias ordenadas alfabeticamente o numericamente. Cada registro solo puede estar en un sitio, y tienes que ir por todo el camino.
 ### El problema es que la mente humana no funciona asi! Operamos por asociacion!
-#### Una idea -> sugiere otra idea por la asociacion de ideas -> de acuerdo a un red de sendero
+#### Una idea -> sugiere otra idea por la asociacion de ideas -> de acuerdo a un red tupida de senderos representada por la red de neuronas.
+####
