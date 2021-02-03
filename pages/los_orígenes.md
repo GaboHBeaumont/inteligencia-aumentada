@@ -15,6 +15,6 @@ title: Los Orígenes
                     - Apple
                     - Microsoft
             - The Mother of all Demos.
-    - Ted Nelson
-    - Alan Kay
+## Ted Nelson
+## Alan Kay
 - Zettelkasten
